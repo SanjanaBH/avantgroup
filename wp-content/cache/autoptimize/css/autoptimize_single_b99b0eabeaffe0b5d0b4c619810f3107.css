@@ -1,0 +1,75 @@
+.elementor-3067 .elementor-element.elementor-element-08a8d14:not(.elementor-motion-effects-element-type-background),
+.elementor-3067 .elementor-element.elementor-element-08a8d14>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url(https://demo2.wpopal.com/aroland/wp-content/uploads/2019/07/landing_footer.jpg);
+    background-position: bottom center;
+    background-repeat: no-repeat
+}
+
+.elementor-3067 .elementor-element.elementor-element-08a8d14>.elementor-background-overlay {
+    background-color: #000;
+    opacity: .7;
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-3067 .elementor-element.elementor-element-08a8d14 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 170px 30px 220px
+}
+
+.elementor-3067 .elementor-element.elementor-element-296aacb>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-3067 .elementor-element.elementor-element-f1da57c {
+    text-align: center
+}
+
+.elementor-3067 .elementor-element.elementor-element-f1da57c.elementor-widget-heading .elementor-heading-title {
+    color: #fff
+}
+
+.elementor-3067 .elementor-element.elementor-element-f1da57c .elementor-heading-title {
+    font-size: 50px;
+    letter-spacing: 10px
+}
+
+.elementor-3067 .elementor-element.elementor-element-f1da57c>.elementor-widget-container {
+    margin: 0 0 55px
+}
+
+.elementor-3067 .elementor-element.elementor-element-3877a5d .elementor-button .elementor-button-icon i {
+    font-size: 14px
+}
+
+.elementor-3067 .elementor-element.elementor-element-3877a5d .elementor-button .elementor-align-icon-right {
+    margin-left: 7px
+}
+
+.elementor-3067 .elementor-element.elementor-element-3877a5d .elementor-button .elementor-align-icon-left {
+    margin-right: 7px
+}
+
+@media(max-width:1024px) {
+    .elementor-3067 .elementor-element.elementor-element-08a8d14 {
+        padding: 150px 30px
+    }
+    .elementor-3067 .elementor-element.elementor-element-f1da57c .elementor-heading-title {
+        font-size: 43px;
+        line-height: 57px;
+        letter-spacing: 8.6px
+    }
+    .elementor-3067 .elementor-element.elementor-element-f1da57c .heading-decor {
+        margin-bottom: 30px
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-3067 .elementor-element.elementor-element-08a8d14 {
+        padding: 120px 15px
+    }
+    .elementor-3067 .elementor-element.elementor-element-f1da57c .elementor-heading-title {
+        font-size: 35px;
+        line-height: 45px;
+        letter-spacing: 7px
+    }
+}

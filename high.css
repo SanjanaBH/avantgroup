@@ -1,0 +1,27 @@
+.elementor-widget-opal-featured-box .column-item{
+    height:250px;
+}
+
+.parentcontainer{
+    height: 100%;
+    width: 100%;
+}
+.parentcontainer .parent{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 20px 0px;
+}
+
+video {
+    width: 400px !important;
+}
+
+.site-content {
+    padding: 0 !important;
+}
+
+video {
+    width: 1498px !important;
+    height: 600px !important;
+}
